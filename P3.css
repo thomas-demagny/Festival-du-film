@@ -1,0 +1,147 @@
+        /* couleurs du site */
+        /*header/footer */
+        /* #1F2A36 */
+        /* liens */
+        /* (a)#006D80 */
+
+body {
+    background-color: #ccc7cc;
+}
+h2 {
+    font-family: 'Alfa Slab One', cursive, Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #1F2A36 !important;
+}
+
+        /* Header */
+        .navbar {
+            background-color: #1F2A36;
+
+        }
+        .navbar-brand {
+            font-size: 1.5rem !important;
+            color: #9fcdff !important;
+
+        }
+        .nav-link {
+            color: #9fcdff !important;
+            font-size: 1.3rem !important;
+        }
+
+
+        /*banner */
+
+.container-fluid {
+    padding: 0;
+}
+
+.jumbotron {
+    background: url("photos/2-header/ban.png") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+}
+.titre, .sous-titre {
+    z-index: 999 !important;
+    font-family: 'Alfa Slab One', cursive, Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 6vw;
+    line-height: 1;
+    font-weight: 200;
+    text-shadow: 10px 4px 4px #1F2A36;
+    color: #8B8B8B;
+    background-color: transparent;
+    border-radius: 15px 15px 15px 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+
+.sous-titre {
+
+    font-family: 'Alfa Slab One', cursive,Arial,Helvetica,sans-serif;
+    text-align: center;
+    font-size: 3vw;
+    color: #8B8B8B;
+    text-shadow: 10px 4px 4px #1F2A36;
+}
+
+
+        @media (min-width: 768px){
+        .jumbotron {
+            background: url("photos/2-header/ban.png") no-repeat center center;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            background-size: cover;
+            -o-background-size: cover;
+        }
+
+        }
+    /* position: absolute; */
+
+
+
+        /* a propos */
+.about {
+
+    box-sizing: border-box;
+    color: rgb(41, 40, 40);
+    display: block;
+    font-size: 1.3rem;
+    font-weight: 400;
+    line-height: 18px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    text-align: center;
+
+}
+
+        /* actus */
+.actus {
+
+    font-size: 1.3rem;
+    text-align: center;
+    padding-top: 10px;
+}
+        /* Projections */
+
+
+        /* contact */
+
+
+
+        /* footer */
+footer{
+    text-align: center;
+}
+.btn-transparent {
+    color: #ccc7cc;
+
+}
+    /* Decorations */
+.separator {
+    background-color: rgba(170, 153, 146, 0.2);
+    line-height: 1;
+    height: 0.3rem;
+    width: auto;
+    max-width: 9.93rem;
+
+}
+
+a {
+    color: #8B8B8B;
+    text-decoration: none;
+    background-color: transparent;
+        }
+a:hover {
+    color: #ccc7cc;
+    text-decoration: none;
+    background-color: transparent;
+}
+
