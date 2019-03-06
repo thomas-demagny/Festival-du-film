@@ -1,31 +1,32 @@
-        /* couleurs du site */
-        /*header/footer */
-        /* #1F2A36 */
-        /* liens */
-        /* (a)#006D80 */
-
 body {
-    background-color: #ccc7cc;
+    background-color: #F7F6F7;
 }
 h2 {
     font-family: 'Alfa Slab One', cursive, Arial, Helvetica, sans-serif;
     text-align: center;
-    color: #1F2A36 !important;
+    color: #958b86 !important;
 }
-
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #958b86 !important;
+}
         /* Header */
         .navbar {
-            background-color: #1F2A36;
+            background-color: #c5c1c5 !important;
 
         }
         .navbar-brand {
             font-size: 1.5rem !important;
-            color: #9fcdff !important;
+            color: #B49A82 !important;
+            font-weight: bold;
 
         }
         .nav-link {
-            color: #9fcdff !important;
+            color: #B49A82 !important;
             font-size: 1.3rem !important;
+            font-weight: bold;
+
         }
 
 
@@ -48,11 +49,11 @@ h2 {
     font-family: 'Alfa Slab One', cursive, Arial, Helvetica, sans-serif;
     text-align: center;
     margin-top: 200px;
-    font-size: 6vw;
-    line-height: 1;
+    font-size: 5rem;
+    line-height: 1.2;
     font-weight: 200;
-    text-shadow: 10px 4px 4px #1F2A36;
-    color: #8B8B8B;
+    text-shadow: 10px 10px 4px #292828;
+    color: #B49A82;
     background-color: transparent;
     border-radius: 15px 15px 15px 15px;
     padding-left: 15px;
@@ -65,9 +66,10 @@ h2 {
 
     font-family: 'Alfa Slab One', cursive,Arial,Helvetica,sans-serif;
     text-align: center;
-    font-size: 3vw;
-    color: #8B8B8B;
-    text-shadow: 10px 4px 4px #1F2A36;
+    font-size: 3rem;
+    line-height: 1;
+    color: #B49A82;
+    text-shadow: 10px 10px 4px #292828;
 }
 
 
@@ -81,6 +83,10 @@ h2 {
         }
 
         }
+
+
+
+
     /* position: absolute; */
 
 
@@ -89,15 +95,11 @@ h2 {
 .about {
 
     box-sizing: border-box;
-    color: rgb(41, 40, 40);
     display: block;
     font-size: 1.3rem;
     font-weight: 400;
     line-height: 18px;
-    padding-bottom: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 10px;
+    padding: 20px 10px 10px 10px;
     text-align: center;
 
 }
@@ -118,30 +120,42 @@ h2 {
 
         /* footer */
 footer{
+
     text-align: center;
 }
-.btn-transparent {
-    color: #ccc7cc;
+.py-5 {
+    background-color: #c5c1c5 !important;
+}
 
+.btn-transparent {
+    color: #c5c1c5;
+
+}
+.btn-link{
+    color: #B49A82;
+}
+.btn-link:hover {
+    color : #292828;
 }
     /* Decorations */
 .separator {
-    background-color: rgba(170, 153, 146, 0.2);
+    background-color: #B49A82;
     line-height: 1;
     height: 0.3rem;
     width: auto;
     max-width: 9.93rem;
+    border-radius : 3px;
 
 }
 
 a {
-    color: #8B8B8B;
-    text-decoration: none;
+    color: #B49A82;
     background-color: transparent;
         }
 a:hover {
-    color: #ccc7cc;
+    color: #292828;
     text-decoration: none;
     background-color: transparent;
 }
+
 
