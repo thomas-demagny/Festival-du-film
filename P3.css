@@ -47,11 +47,14 @@ h3 {
     -o-background-size: cover;
 
 }
-.titre, .sous-titre {
-    z-index: 999 !important;
+
+
+h1 {
     font-family: 'Bungee Inline', cursive;, Arial, Helvetica, sans-serif;
-    text-align: center;
-    margin-top: 200px;
+    display: flex;
+    flex-direction:column;
+    text-align:center;
+    margin-top: 150px;
     font-size: 5rem;
     line-height: 1.2;
     font-weight: 200;
@@ -59,20 +62,23 @@ h3 {
     color: #B49A82;
     background-color: transparent;
     border-radius: 15px 15px 15px 15px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-top: 0;
+
 }
-
-
 
 .sous-titre {
 
     font-family: 'Bungee Inline', cursive;,Arial,Helvetica,sans-serif;
     text-align: center;
-    font-size: 3rem;
+    font-size: 3.5rem;
     line-height: 1;
     color: #B49A82;
     text-shadow: 10px 10px 4px #292828;
+    background-color: transparent;
+    border-radius: 15px 15px 15px 15px;
+    padding-top: 30px;
+
+
 }
 
 
@@ -100,17 +106,22 @@ h3 {
     font-size: 1.3rem;
     font-weight: 400;
     line-height: 18px;
-    padding: 20px 10px 10px 10px;
+
     text-align: center;
 
 }
-
+cite {
+    padding-top: 10% !important;
+}
         /* actus */
 .actus {
 
     font-size: 1.3rem;
     text-align: center;
-    padding-top: 10px;
+
+}
+.cine {
+    padding-top: 3px;
 }
         /* Projections */
 
@@ -128,6 +139,7 @@ footer{
     background-color: #c5c1c5 !important;
 }
 
+/* Btn */
 .btn-transparent {
     color: #c5c1c5;
 
@@ -136,8 +148,14 @@ footer{
     color: #B49A82;
 }
 .btn-link:hover {
-    color : #292828;
+    color: #292828;
 }
+    .btn-primary {
+
+        background-color : #B49A82;
+        border: 1px solid #958b86;
+    }
+
     /* Decorations */
 .separator {
     background-color: #B49A82;
@@ -146,8 +164,9 @@ footer{
     width: auto;
     max-width: 9.93rem;
     border-radius : 3px;
-
-}
+    margin-bottom: 30px;
+    margin-top: 50px;
+    }
 
 a {
     color: #B49A82;
