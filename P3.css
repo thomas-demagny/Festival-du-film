@@ -3,6 +3,7 @@
 
 body {
     background-color: #F7F6F7;
+
 }
 h2 {
     font-family: 'Bungee Inline', cursive;, Arial, Helvetica, sans-serif;
@@ -37,6 +38,7 @@ h3 {
 
 .container-fluid {
     padding: 0;
+
 }
 
 .jumbotron {
@@ -49,7 +51,7 @@ h3 {
 }
 
 
-h1 {
+.titre {
     font-family: 'Bungee Inline', cursive;, Arial, Helvetica, sans-serif;
     display: flex;
     flex-direction:column;
@@ -127,8 +129,12 @@ cite {
 
 
         /* contact */
-
-
+form {
+    padding-bottom: 30px;
+}
+ {
+    padding-bottom: 2px;
+}
 
         /* footer */
 footer{
@@ -153,6 +159,10 @@ footer{
     .btn-primary {
 
         background-color : #B49A82;
+        border: 1px solid #958b86;
+    }
+    .btn-primary:hover {
+        background-color: #292828;
         border: 1px solid #958b86;
     }
 
