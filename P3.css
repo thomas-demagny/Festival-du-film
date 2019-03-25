@@ -131,10 +131,15 @@ cite {
         /* contact */
 form {
     padding-bottom: 30px;
+    padding-top : 30px;
 }
- {
-    padding-bottom: 2px;
+
+address, h3{
+    text-align: center;
+    padding-top: 30px;
+
 }
+
 
         /* footer */
 footer{
@@ -165,6 +170,8 @@ footer{
         background-color: #292828;
         border: 1px solid #958b86;
     }
+
+    /* end btn */
 
     /* Decorations */
 .separator {
