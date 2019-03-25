@@ -337,54 +337,61 @@
     <span class="row col-md-6"> c'est la fête</span>
 </section>
 <!--End Réservation-->
+
     <hr class="separator">
+
     <!--Contact-->
     <section class="container">
         <h2 class="my-4" id="contact">Contact</h2>
 
-
-    <form>
-        <div class="col-lg-6 col-md-8 col-sm-10">
-        <fieldset>
-            <div class="form-row">
-                <div class="col-md-6">
-                    <input type="text" class="form-control" placeholder="Nom" id="name" required>
-                </div>
-
-                <div class="col-md-6">
-                    <input type="text" class="form-control" placeholder="Prénom" id="surname" required>
-                </div>
-            </div>
-
+        <section>
             <div class="row">
-                <div class="col">
-                <input type="email" class="form-control" placeholder="@mail" id="email" required>
+                <div class="col-md-6 col-lg-6">
+                    <form>
+                        <div class="form-group">
+                            <div class="form-row">
+                                <div class="col-md-6">
+                                    <input type="text" class="form-control" placeholder="Nom" id="name" required />
+                                </div>
+
+                                <div class="col-md-6">
+                                    <input type="text" class="form-control" placeholder="Prénom" id="surname" required />
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" class="form-control" placeholder="@mail" id="email" required />
+                        </div>
+
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Objet" id="object" required />
+                        </div>
+
+
+                        <div class="form-group">
+                            <textarea class="form-control" rows="5" required placeholder="Votre message"></textarea>
+                        </div>
+
+                        <div class="form-group mt-3">
+                            <button type="button" class="btn btn-primary" id="submit">Envoyer</button>
+
+                        </div>
+                    </form>
+                </div>
+
+                <div class="col-md-6 col-lg-6">
+                    <address>
+                        <h3>Notre adresse</h3>
+                        <p>35 Boulevard de Courcelles</p>
+                        <p>75008 Paris</p>
+                        <p>Tel: +33 1 66 57 00 00</p>
+                        <a href="mailto:jennifer.viala@festival.org">jennifer.viala@festival.org</a>
+                    </address>
                 </div>
             </div>
-
-            <div class="row">
-                <div class="col">
-                    <input type="text" class="form-control" placeholder="Objet" id="object" required>
-                </div>
-            </div>
-
-
-            <div class="form-row">
-                <div class="col-md-12">
-                    <textarea class="form-control" rows="5" required placeholder="votre message"></textarea>
-                </div>
-            </div>
-            <div class="form-row mt-3">
-                <div class="col-md-12">
-                    <button type="button" class="btn btn-primary" id="submit">Envoyer</button>
-
-                </div>
-            </div>
-        </fieldset>
-    </div>
-    </form>
-    </section>
-
+        </section>
+        </section>
             <!-- end contact -->
 
 <!-- Footer -->
