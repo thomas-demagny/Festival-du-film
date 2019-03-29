@@ -49,7 +49,16 @@ h3 {
     -o-background-size: cover;
 
 }
+        @media (min-width: 768px){
+            .jumbotron {
+                background: url("photos/2-header/ban.png") no-repeat center center;
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                background-size: cover;
+                -o-background-size: cover;
+            }
 
+        }
 
 .titre {
     font-family: 'Bungee Inline', cursive;, Arial, Helvetica, sans-serif;
@@ -84,22 +93,6 @@ h3 {
 }
 
 
-        @media (min-width: 768px){
-        .jumbotron {
-            background: url("photos/2-header/ban.png") no-repeat center center;
-            -webkit-background-size: cover;
-            -moz-background-size: cover;
-            background-size: cover;
-            -o-background-size: cover;
-        }
-
-        }
-
-
-    /* position: absolute; */
-
-
-
         /* a propos */
 .about {
 
@@ -124,6 +117,13 @@ cite {
 }
 .cine {
     padding-top: 3px;
+    text-align: center;
+}
+.card-text {
+    text-align: center;
+    text-align: -moz-center;
+    text-align: -webkit-center;
+
 }
         /* Projections */
 
@@ -134,8 +134,10 @@ form {
     padding-top : 30px;
 }
 
-address, h3{
+address, .our-address{
     text-align: center;
+    text-align: -moz-center;
+    text-align: -webkit-center;
     padding-top: 30px;
 
 }
@@ -145,6 +147,8 @@ address, h3{
 footer{
 
     text-align: center;
+    text-align: -moz-center;
+    text-align: -webkit-center;
 }
 .py-5 {
     background-color: #c5c1c5 !important;
@@ -172,6 +176,12 @@ footer{
     }
 
     /* end btn */
+
+        /* btn reservation */
+       #done{
+           margin: auto;
+
+       }
 
     /* Decorations */
 .separator {
