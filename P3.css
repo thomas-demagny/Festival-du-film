@@ -126,7 +126,13 @@ cite {
 
 }
         /* Projections */
+.project {
 
+    max-height: 400px;
+}
+.movies {
+    float : right;
+}
 
         /* contact */
 form {
@@ -164,15 +170,18 @@ footer{
 }
 .btn-link:hover {
     color: #292828;
+    text-decoration: none;
 }
     .btn-primary {
 
         background-color : #B49A82;
         border: 1px solid #958b86;
+        outline: #292828;
     }
     .btn-primary:hover {
         background-color: #292828;
         border: 1px solid #958b86;
+
     }
 
     /* end btn */
