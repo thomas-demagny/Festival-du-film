@@ -1,0 +1,216 @@
+        /* couleurs du site */
+
+
+body {
+    background-color: #F7F6F7;
+
+}
+h2 {
+    font-family: 'Bungee Inline', cursive;, Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #958b86 !important;
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #958b86 !important;
+}
+        /* Header */
+        .navbar {
+            background-color: #c5c1c5 !important;
+
+        }
+        .navbar-brand {
+            font-size: 1.5rem !important;
+            color: #B49A82 !important;
+            font-weight: bold;
+
+        }
+        .nav-link {
+            color: #B49A82 !important;
+            font-size: 1.3rem !important;
+            font-weight: bold;
+
+        }
+
+
+        /*banner */
+
+.container-fluid {
+    padding: 0;
+
+}
+
+.jumbotron {
+    background: url("photos/2-header/ban.png") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+}
+        @media (min-width: 768px){
+            .jumbotron {
+                background: url("photos/2-header/ban.png") no-repeat center center;
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                background-size: cover;
+                -o-background-size: cover;
+            }
+
+        }
+
+.titre {
+    font-family: 'Bungee Inline', cursive;, Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction:column;
+    text-align:center;
+    margin-top: 150px;
+    font-size: 5rem;
+    line-height: 1.2;
+    font-weight: 200;
+    text-shadow: 10px 10px 4px #292828;
+    color: #B49A82;
+    background-color: transparent;
+    border-radius: 15px 15px 15px 15px;
+    padding-top: 0;
+
+}
+
+.sous-titre {
+
+    font-family: 'Bungee Inline', cursive;,Arial,Helvetica,sans-serif;
+    text-align: center;
+    font-size: 3.5rem;
+    line-height: 1;
+    color: #B49A82;
+    text-shadow: 10px 10px 4px #292828;
+    background-color: transparent;
+    border-radius: 15px 15px 15px 15px;
+    padding-top: 30px;
+
+
+}
+
+
+        /* a propos */
+.about {
+
+    box-sizing: border-box;
+    display: block;
+    font-size: 1.3rem;
+    font-weight: 400;
+    line-height: 18px;
+
+    text-align: center;
+
+}
+cite {
+    padding-top: 10% !important;
+}
+        /* actus */
+.actus {
+
+    font-size: 1.3rem;
+    text-align: center;
+
+}
+.cine {
+    padding-top: 3px;
+    text-align: center;
+}
+.card-text {
+    text-align: center;
+    text-align: -moz-center;
+    text-align: -webkit-center;
+
+}
+        /* Projections */
+.project {
+
+    max-height: 400px;
+}
+.movies {
+    float : right;
+}
+
+        /* contact */
+form {
+    padding-bottom: 30px;
+    padding-top : 30px;
+}
+
+address, .our-address{
+    text-align: center;
+    text-align: -moz-center;
+    text-align: -webkit-center;
+    padding-top: 30px;
+
+}
+
+
+        /* footer */
+footer{
+
+    text-align: center;
+    text-align: -moz-center;
+    text-align: -webkit-center;
+}
+.py-5 {
+    background-color: #c5c1c5 !important;
+}
+
+/* Btn */
+.btn-transparent {
+    color: #c5c1c5;
+
+}
+.btn-link{
+    color: #B49A82;
+}
+.btn-link:hover {
+    color: #292828;
+    text-decoration: none;
+}
+    .btn-primary {
+
+        background-color : #B49A82;
+        border: 1px solid #958b86;
+        outline: #292828;
+    }
+    .btn-primary:hover {
+        background-color: #292828;
+        border: 1px solid #958b86;
+
+    }
+
+    /* end btn */
+
+        /* btn reservation */
+       #done{
+           margin: auto;
+
+       }
+
+    /* Decorations */
+.separator {
+    background-color: #B49A82;
+    line-height: 1;
+    height: 0.3rem;
+    width: auto;
+    max-width: 9.93rem;
+    border-radius : 3px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+    }
+
+a {
+    color: #B49A82;
+    background-color: transparent;
+        }
+a:hover {
+    color: #292828;
+    text-decoration: none;
+    background-color: transparent;
+}
+

@@ -9,34 +9,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/P3.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="34">
-                  <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/P3.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="196">
-                  <caret line="120" column="1" lean-forward="true" selection-start-line="120" selection-start-column="1" selection-end-line="120" selection-end-column="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/photos/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -50,8 +34,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="267" />
-    <option name="y" value="19" />
+    <option name="x" value="158" />
+    <option name="y" value="14" />
     <option name="width" value="1550" />
     <option name="height" value="1040" />
   </component>
@@ -72,12 +56,6 @@
               <item name="Festival-du-film" type="b2602c69:ProjectViewProjectNode" />
               <item name="Festival-du-film" type="462c0819:PsiDirectoryNode" />
               <item name="photos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Festival-du-film" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Festival-du-film" type="462c0819:PsiDirectoryNode" />
-              <item name="photos" type="462c0819:PsiDirectoryNode" />
-              <item name="affiches" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Festival-du-film" type="b2602c69:ProjectViewProjectNode" />
@@ -116,18 +94,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553858924950</updated>
-      <workItem from="1553858942107" duration="18230000" />
+      <workItem from="1553858942107" duration="20816000" />
+      <workItem from="1554284899079" duration="288000" />
+      <workItem from="1555503389010" duration="1083000" />
+      <workItem from="1555507744033" duration="681000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18230000" />
+    <option name="totallyTimeSpent" value="22868000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="510" y="52" width="1550" height="1040" extended-state="0" />
+    <frame x="158" y="14" width="1550" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26107383" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27114093" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -159,12 +140,147 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/P3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+    <entry file="file://$PROJECT_DIR$/photos/style.css" />
+    <entry file="file://$PROJECT_DIR$/P3.html" />
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/demag/Google Drive/OC-Thomas-Demagny/P3/Festival-du-film/photos/index.html">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/photos/index.html</OriginalElement>
+          <nodes>
+            <node x="257.0" y="78.0">$PROJECT_DIR$/photos/P3.css</node>
+            <node x="599.0" y="474.0">$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_popper.js_1.14.7_umd_popper.js</node>
+            <node x="50.0" y="478.0">$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.3.1.slim.js</node>
+            <node x="111.0" y="294.0">$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_stackpath.bootstrapcdn.com_bootstrap_4.3.1_js_bootstrap.js</node>
+            <node x="316.0" y="299.0">$PROJECT_DIR$/photos/index.html</node>
+            <node x="421.0" y="687.0">https://fonts.googleapis.com/css?family=Bungee+Inline%7cLobster:400,900</node>
+            <node x="23.0" y="218.0">https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css</node>
+            <node x="253.0" y="510.0">photos/affiches/Aladdin.jpg</node>
+            <node x="0.0" y="364.0">photos/affiches/Apocalypse_Now.jpg</node>
+            <node x="487.0" y="194.0">photos/affiches/avatar.jpg</node>
+            <node x="295.0" y="0.0">photos/affiches/aviator.jpg</node>
+            <node x="472.0" y="33.0">photos/affiches/bienvenue.jpg</node>
+            <node x="400.0" y="546.0">photos/affiches/chocolat.jpg</node>
+            <node x="477.0" y="476.0">photos/affiches/cold_war.jpg</node>
+            <node x="603.0" y="385.0">photos/affiches/danse.jpg</node>
+            <node x="433.0" y="103.0">photos/affiches/gardiens.jpg</node>
+            <node x="209.0" y="586.0">photos/affiches/gladiator.jpg</node>
+            <node x="594.0" y="150.0">photos/affiches/intouchables.jpg</node>
+            <node x="156.0" y="148.0">photos/affiches/tontons.jpg</node>
+            <node x="104.0" y="8.0">photos/google/Untitled%20collage(7).jpg</node>
+            <node x="560.0" y="314.0">photos/google/marker.jpg</node>
+            <node x="613.0" y="244.0">photos/google/mon-bébé.jpg</node>
+            <node x="350.0" y="617.0">photos/google/stan_lee.jpg</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_popper.js_1.14.7_umd_popper.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_stackpath.bootstrapcdn.com_bootstrap_4.3.1_js_bootstrap.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="photos/affiches/gladiator.jpg">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="photos/affiches/tontons.jpg">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="photos/affiches/bienvenue.jpg">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="photos/google/stan_lee.jpg">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="$PROJECT_DIR$/photos/P3.css">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="photos/affiches/avatar.jpg">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="photos/affiches/danse.jpg">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="photos/google/mon-bébé.jpg">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="photos/google/marker.jpg">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="photos/affiches/intouchables.jpg">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="photos/affiches/aviator.jpg">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="https://fonts.googleapis.com/css?family=Bungee+Inline%7cLobster:400,900">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="photos/affiches/cold_war.jpg">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="photos/google/Untitled%20collage(7).jpg">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="photos/affiches/Aladdin.jpg">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="photos/affiches/gardiens.jpg">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="photos/affiches/chocolat.jpg">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="photos/affiches/Apocalypse_Now.jpg">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/photos/index.html" target="$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.3.1.slim.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="352.0" y="358.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photos/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photos/google/mon-bébé.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
